@@ -1,0 +1,13 @@
+SQL có các đường link cần thay đổi 
+	- Tạo database: có  3 thư mục link đã tạo sẵn chỉ cần liên kết tới để lưu 
+	phân tán Sql -> Log file,...
+	- Import dữ liệu
+	-> Có 2 loại import là bulk insert và opendatasource:
+		+ Bulk insert cho máy sql nào có hỗ trợ code page: 65001 (UFT-8) và csv UFT-8 thì 
+		mới thực hiện thành công. Dữ liệu excel trong Sql -> Import data -> Excel for bulk
+		+ Opendatasource thì thoải mái nhưng nhớ chạy 4 câu lệnh trước nó để set OPD.. Dữ liệu 
+		excel trong Sql -> Import data -> Excel for opendatasource
+
+Về c# thì thay đổi server name ở View -> DangNhap -> Double click vào button dang nhap -> Thay đổi 
+sv name
+Về crystal report có hướng dẫn trong file word hướng dẫn làm crystal report

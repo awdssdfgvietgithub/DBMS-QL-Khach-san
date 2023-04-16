@@ -1,0 +1,782 @@
+D:\Thuchanh HQTCSDL\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\Thuchanh HQTCSDL\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Thuchanh HQTCSDL\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Thuchanh HQTCSDL\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+D:\Thuchanh HQTCSDL\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DOAN_ThucHanhHQTCSDL_QLKhachSan.resources
+D:\Thuchanh HQTCSDL\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\Thuchanh HQTCSDL\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\Thuchanh HQTCSDL\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Thuchanh HQTCSDL\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Thuchanh HQTCSDL\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\Thuchanh HQTCSDL\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\Thuchanh HQTCSDL\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\Thuchanh HQTCSDL\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\Thuchanh HQTCSDL\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\Thuchanh HQTCSDL\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThanhCong.resources
+D:\Thuchanh HQTCSDL\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\Thuchanh HQTCSDL\DOAN_EDIT\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\Thuchanh HQTCSDL\DOAN_EDIT\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Thuchanh HQTCSDL\DOAN_EDIT\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Thuchanh HQTCSDL\DOAN_EDIT\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Thuchanh HQTCSDL\DOAN_EDIT\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Thuchanh HQTCSDL\DOAN_EDIT\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+D:\Thuchanh HQTCSDL\DOAN_EDIT\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Main.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormNhanVien.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+D:\Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormNhanVien.resources
+D:\Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+D:\Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormNhanVien.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (1)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormNhanVien.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormNhanVien.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 2\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 2\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 2\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 2\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 2\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 2\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormNhanVien.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 2\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 2\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 2\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 2\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 2\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 2\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 2\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 2\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 2\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 2\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 2\DOAN_ThucHanhHQTCSDL_QLKhachSan (new)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\Thịnh\Desktop\THHQT 1-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Thuchanh HQTCSDL\DOAN_THINH_0101\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\Thuchanh HQTCSDL\DOAN_THINH_0101\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Thuchanh HQTCSDL\DOAN_THINH_0101\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Thuchanh HQTCSDL\DOAN_THINH_0101\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+D:\Thuchanh HQTCSDL\DOAN_THINH_0101\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+D:\Thuchanh HQTCSDL\DOAN_THINH_0101\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+D:\Thuchanh HQTCSDL\DOAN_THINH_0101\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\Thuchanh HQTCSDL\DOAN_THINH_0101\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+D:\Thuchanh HQTCSDL\DOAN_THINH_0101\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\Thuchanh HQTCSDL\DOAN_THINH_0101\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\Thuchanh HQTCSDL\DOAN_THINH_0101\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\Thuchanh HQTCSDL\DOAN_THINH_0101\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\Thuchanh HQTCSDL\DOAN_THINH_0101\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\Thuchanh HQTCSDL\DOAN_THINH_0101\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\Thuchanh HQTCSDL\DOAN_THINH_0101\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\Thuchanh HQTCSDL\DOAN_THINH_0101\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\Thuchanh HQTCSDL\DOAN_THINH_0101\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Thuchanh HQTCSDL\DOAN_THINH_0101\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lan 8\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (2)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (3)\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối =)))\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lan cuoi\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\Thịnh\Desktop\final\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 2\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_KH_Thue_PH.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Frm_SOHOADON.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.frm_SoPhieuThue.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Frm_SOHOADON.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.frm_SoPhieuThue.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_KH_Thue_PH.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 4\DOAN_ThucHanhHQTCSDL_QLKhachSan\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Frm_SOHOADON.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.frm_SoPhieuThue.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_KH_Thue_PH.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lần cuối 5\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lần cuối 5\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lần cuối 5\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (5)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Frm_SOHOADON.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.frm_SoPhieuThue.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_KH_Thue_PH.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Frm_SOHOADON.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.frm_SoPhieuThue.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_KH_Thue_PH.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_0901\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Frm_SOHOADON.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.frm_SoPhieuThue.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_KH_Thue_PH.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Frm_SOHOADON.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.frm_SoPhieuThue.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_KH_Thue_PH.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_TH-HQTCSDL_QL-KS\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Frm_SOHOADON.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.frm_SoPhieuThue.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_KH_Thue_PH.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Frm_SOHOADON.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.frm_SoPhieuThue.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_KH_Thue_PH.resources
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\HP\Desktop\CSDL\.HQT CSDL\doan\lần cuối 6\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (6)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Frm_SOHOADON.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.frm_SoPhieuThue.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_KH_Thue_PH.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.HeThong.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.BK_RS_Database.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lần cuối 7\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lần cuối 7\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\ADMIN\Desktop\học\hệ quản trị CSDL\.Thực hành\.Đồ án\lần cuối 7\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (7)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.BK_RS_Database.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Frm_SOHOADON.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.frm_SoPhieuThue.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.HeThong.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_KH_Thue_PH.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.BK_RS_Database.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Frm_SOHOADON.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.frm_SoPhieuThue.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.HeThong.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_KH_Thue_PH.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_VIET_1001\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.BK_RS_Database.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Frm_SOHOADON.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.frm_SoPhieuThue.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.HeThong.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_KH_Thue_PH.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.SizeDatabase.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.BK_RS_Database.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Frm_SOHOADON.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.frm_SoPhieuThue.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.HeThong.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.SizeDatabase.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_KH_Thue_PH.resources
+C:\Users\Thịnh\Desktop\t2 9-1-2023\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (8)\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.BK_RS_Database.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Frm_SOHOADON.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.frm_SoPhieuThue.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.HeThong.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.SizeDatabase.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_KH_Thue_PH.resources
+C:\Users\Thịnh\Desktop\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.BK_RS_Database.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Frm_SOHOADON.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.frm_SoPhieuThue.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.HeThong.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.SizeDatabase.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_KH_Thue_PH.resources
+D:\.Năm 3\HQTCSDL\Thuc Hanh\Đồ Án_1\Đồ án\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.BK_RS_Database.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Frm_SOHOADON.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.frm_SoPhieuThue.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.HeThong.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.SizeDatabase.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_KH_Thue_PH.resources
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Thuchanh HQTCSDL\DOAN_EDIT_CANHOM_1201\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe.config
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.exe
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.BK_RS_Database.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoiMatKhau.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Frm_SOHOADON.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.frm_SoPhieuThue.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.HeThong.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.In_HD.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.FormQuanLy.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DoanhThu.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.QLNhanVien.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.SizeDatabase.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Thue.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DangNhap.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_KhachHang.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_NhanVien.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.DM_Phong.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Properties.Resources.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.View.FormThatBai.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_HoaDon.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.Xuat_KH_Thue_PH.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csproj.GenerateResource.Cache
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.ImportDatabase.resources
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\TH-HệquảntrịCSDL\Bao_Cao\DOAN_ThucHanhHQTCSDL_QLKhachSan (new) (9) (1)\Project c#\DOAN_ThucHanhHQTCSDL_QLKhachSan\obj\Debug\DOAN_ThucHanhHQTCSDL_QLKhachSan.csprojResolveAssemblyReference.cache
